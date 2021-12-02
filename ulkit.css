@@ -1,0 +1,22 @@
+.planned{
+    
+    display: flex;
+    flex-direction: column;
+}
+.jm{
+
+    width: 800px;
+    height: 400px;
+}
+.photos{
+    display: flex;
+    flex-direction: row;
+}
+.logos{
+    width: 800px;
+    height: 50px;
+}
+.jk{
+    width: 800px;
+    height: 400px;    
+}
